@@ -1,6 +1,6 @@
 # ISE-364-Final
 Contributions:
-MobileNet - Sandeep Singh 
-EfficientNet - 
-ResNet - 
-ResNet Quantization - Leoul Demissie
+- MobileNet - Sandeep Singh 
+- EfficientNet - Simran Kaila
+- ResNet - Sanchita Shrivastava
+- ResNet Quantization - Leoul Demissie
