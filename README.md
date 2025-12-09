@@ -26,3 +26,5 @@ Sandeep Singh
  - Implemented and trained MobileNetV3-Small, focusing on its efficiency characteristics for on-device use.
  - Provided dataset insight that informed expectations for model performance.
  - Wrote the EDA and MobileNet sections of the report.
+
+All relevant parts have been included into main.ipynb.
